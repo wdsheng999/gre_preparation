@@ -3,13 +3,18 @@
 
 ·Lecture One
 GRE数学考试介绍
+
 ·Lecture Two
 基本数论
+
 ·Lecture Three
 代数计算
+
 ·Lecture Four
 初等几何
+
 ·Lecture Five
 文字应用题
+
 ·Lecture Six
 比较大小题型

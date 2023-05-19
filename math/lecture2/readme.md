@@ -1,4 +1,4 @@
-- 奇偶数 odd and even numbers
+- ## 奇偶数 odd and even numbers
 ```
 o+o=e
 o*o=o
@@ -38,7 +38,9 @@ ans: only one odd
 
 正确解答分类讨论奇偶数字
 
-- 质因数 公倍数
+---
+
+- ## 质因数 公倍数
 因数 factor  
 除数 divisor
 负数严格说也算factor，但一般不会这么问
@@ -92,7 +94,7 @@ If △ represents a single digit in the integer above,which of the following CAN
 (D)5
 (E)7
 
-- 最大公约数(GCD GCF)和最小公倍数(LCM)(Greatest common divisors and least common multiples)
+- ## 最大公约数(GCD GCF)和最小公倍数(LCM)(Greatest common divisors and least common multiples)
 
 两个数的最大公约数与最小公倍数的求解方法：
 ()将两个数分别各自分解质因数：
@@ -122,3 +124,52 @@ GCD=2^1 3^0 5^0 &^0=2
 LCM=2^2 3^2 5^2 7^2=9 49 100
 
 Ans:A
+
+---
+
+- ## 余数 remainders
+
+i.e.
+
+1.What is the sum of the remainders when the first
+40 positive integers are divided by 6
+(A)96
+(B)100
+(C)120
+(D)132
+(E)136
+
+ans:B
+
+通常计算量不大 注意找规律， 找循环的方式
+
+i.e.
+2.If n is a positive integer,what is the remainder when$3^{8n+3}+2$ is divided by 5?
+A0
+B1
+C2
+(D)3
+(E)4  
+
+ans: 不会
+就是找尾数的规律  3的次末位数
+8n+3 一定是4的周期的， 而以4为周期循环，所以有规律
+
+ans:E
+
+
+常见的3：3 9 7 1；7：7 9 3 1；2： 2 4 8 6.
+
+---
+
+- ## 小数 分数 科学计数法
+
+识别各位数字名称”7654.321”，其中：
+"7":thousands
+“6":hundreds
+“5":tens
+“4":units(or ones)
+“.”:decimal point
+“3":tenths
+"2":hundredths
+“I":thousandths

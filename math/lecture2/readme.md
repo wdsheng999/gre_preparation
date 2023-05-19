@@ -164,6 +164,11 @@ ans:E
 
 - ## 小数 分数 科学计数法
 
+有限小数：terminating decimal
+循环小数：circulating decimal 
+
+
+
 识别各位数字名称”7654.321”，其中：
 "7":thousands
 “6":hundreds
@@ -173,3 +178,93 @@ ans:E
 “3":tenths
 "2":hundredths
 “I":thousandths
+
+i.e.
+
+1.On a recent trip,Cindy drove her car 380 miles,rounded to
+the nearest 10 miles,and used 16.3 gallons of gasoline,rounded
+to the nearest tenths gallon.The actual number of miles per
+gallon that Cindy's car got on this trip must have been between
+(A)
+380 16.35
+and 
+380 16.25 
+(B)
+385 16.3
+and 
+375 16.25  
+(C)
+375 16.3
+and
+385 16.3
+D
+375 16.35
+and
+385 16.25
+(E)
+385 16.35
+and
+375 16.25
+
+Ans:D
+
+
+2.If the tens digit x and the units digit y of a positive integer n are reversed,the resulting integer is 9 more than.What is y in terms of x
+(A)10-x
+(B)9-x
+(C)×+9
+(D)x-I
+(E)×+1
+
+Ans:E；
+对于选择题完全可以带
+
+3.Of the following which best approximates the fraction
+(0.1667)(0.8333)(0.3333)
+(0.2222)(0.6667)(0.1250)
+(A)
+2.00
+(B)
+2.40
+(C)
+2.43
+(D)
+2.50
+(E)
+3.43
+
+Ans: 不会；可以直接计算器按出来；
+
+
+循环小数一定能化成分数：  
+1/9=0.1111  
+1/8=0.125  
+1/7=0.142857142857  
+1/6=0.16666;5/6=0.83333  
+
+
+i.e.错位相减法 数清楚有n个数字在循环，扩大到10的n次方
+x=0.5353...  
+100x=53.5353...  
+99x=53；
+
+
+x=0.142857142857
+1000000x=142857.142857142857
+999999x=142857  how to 1/7??
+
+根据上面结论Ans:2.5
+
+4.If $10^50-74$ is written as an integer in base decimal notation 十进制计数法,what is the sum of the digits in that integer?
+(A)
+424
+(B)
+431
+(C)
+440
+(D)
+449
+(E)
+456
+
+48*9+2+6=440

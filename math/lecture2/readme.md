@@ -255,7 +255,7 @@ x=0.142857142857
 
 根据上面结论Ans:2.5
 
-4.If $10^50-74$ is written as an integer in base decimal notation 十进制计数法,what is the sum of the digits in that integer?
+4.If $10^{50}-74$ is written as an integer in base decimal notation 十进制计数法,what is the sum of the digits in that integer?
 (A)
 424
 (B)
@@ -268,3 +268,53 @@ x=0.142857142857
 456
 
 48*9+2+6=440
+
+- ## 比例比率问题
+
+a:b  the ratio of a to b  
+there is twice as much a as b: a=2b  
+前面的是后面的 倍数  
+
+numerator:分子  denominator：分母
+
+
+I.A certain fraction is equivalent to 2/5.If the numerator of the
+fraction is increased by 4 and the denominator is doubled,the new
+fraction is equivalent to 1/3.What is the sum of the numerator and
+denominator of the original fraction?
+(A)21
+(B)26
+(C)28
+(D)35
+(E)49
+
+ans:A
+
+再看一道应用题：  
+2.A merchant purchased a jacket for \$60 and then determined a
+selling price that equaled the purchase price of the jacket plus a
+markup that was 25 percent of the selling price.During a sale,the
+merchant discounted the selling price by 20 percent and sold the
+jacket.What was the merchant's gross profit on this sale?
+(A)$0
+(B)$3
+(C)$4
+(D)$12
+(E)$I5
+
+erroneous: 1.25*0.8
+
+Ans: s=60+0.25s-->s=80  
+out=80*0.8=64-->profit=64-60=4
+
+再看一个推导公式的类型：  
+3.In a certain formula,p is directly proportional to s and
+inversely proportional to r.If p=1 when r=0.5 and s=2,what
+is the value of p in terms of r and s
+(A)s/r
+(B)r/4s
+(C)s/4r
+(D)r/s
+(E)4r/s
+
+Ans:C

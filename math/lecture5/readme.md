@@ -3,15 +3,15 @@
 A为本利和，P为本金，r为利率，n为期数  
 
 
-1.Mary invested $14,000 for 3 years in a certificate of deposit paying
+1.Mary invested \$14,000 for 3 years in a certificate of deposit paying
 9.25%simple annual interest.How many more interest would Mary
 have received if the interest rate on this certificate had been 9.75%
 simple annual interest?
-(A)$21
-(B)$210
-(C)$420
-(D)$2,100
-(E)$4,200
+(A)\$21
+(B)\$210
+(C)\$420
+(D)\$2,100
+(E)\$4,200
 
 ans:B
 

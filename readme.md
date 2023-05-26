@@ -1,12 +1,18 @@
 ## 数学
 [gre张鹏讲数学](https://www.bilibili.com/video/BV1oE411n72U)
 
-- Lecture One
+- [Lecture One](./math/lecture1/readme.md)
 GRE数学考试介绍
+
+GRE数学题型分布
+填空：1-2个
+不定项选择：1-2个
+比较大小：7-9个
+普通单选：其余题目
 
 考试流程 注意事项
 
-- Lecture Two
+- [Lecture Two](./math/lecture2/readme.md)
 基本数论
   - 奇数偶数
   - 因数，质因数
@@ -17,7 +23,7 @@ GRE数学考试介绍
 
 分解质因数，最大公约数，最小公倍数，余数，小数分数转化
 
-- Lecture Three
+- [Lecture Three](./math/lecture3/readme.md)
 代数计算
   - 指数运算
   - 解方程
@@ -28,7 +34,7 @@ GRE数学考试介绍
 
 一些名词的说法：的几次方，加减乘除
 
-- Lecture Four
+- [Lecture Four](./math/lecture4/readme.md)
 初等几何
   - 三角形 四边形
   - 圆
@@ -40,7 +46,7 @@ GRE数学考试介绍
 直径半径周长 弧长弦长面积。注意单复数变化。
 
 
-- Lecture Five
+- [Lecture Five](./math/lecture5/readme.md)
 文字应用题
   - 利息问题
   - 集合问题
@@ -53,5 +59,7 @@ GRE数学考试介绍
 
 统计学：平均数中位数；标准方差；正态分布；四分位数
 
-- Lecture Six
-比较大小题型
+- [Lecture Six](./math/lecture6/readme.md)
+比较大小题型 
+
+固定选项的题型

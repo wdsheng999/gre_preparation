@@ -298,7 +298,7 @@ C.216
 D.720
 E.729
 
-解：我们只需要考虑每个小孩分到什么
+TODO:解：我们只需要考虑每个小孩分到什么
 颜色即可。从6个小孩中选择3个
 小孩分配某一个，那么显然剩下3
 个小孩就分配另一个颜色。从6个
@@ -336,8 +336,8 @@ $P(B\cup C)=P(B)+P(C)-P(B\cap C)=0.4+0.85-0.34=0.91$
 2.If the integer greater than 100 and less than 1000 is to be selected at random, what is the probability that the integer selected will be a multiple of 7
 
 ans: 从101 到999 899个数
-105=7*15
-7*142=994
+105=7\*15
+7\*142=994
 所以共 142-15+1=128
 
 4.5 随机变量和概率分布

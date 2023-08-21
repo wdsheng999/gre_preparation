@@ -1,4 +1,4 @@
-11.If x and y are positive integers.
+11. If x and y are positive integers.
 and 1 is the greatest common divisor of x and y,
 what is the greatest common divisor of 2x and 3y?
 A.Cannot be determined
@@ -10,9 +10,8 @@ E.6
 ans: A 举例 3 2 和2 3 
 
 
-14.Quantity A:The number
-of
-prime numbers divisible by 13
+14. Quantity A:The number
+of prime numbers divisible by 13
 Quantity B:The number of prime
 numbers divisible by 2
 A.Quantity A is greater.
@@ -21,10 +20,10 @@ C.The two quantities are equal.
 D.The relationship cannot be deter-
 mined from the information given.
 
-ans: C 被13整除的质数只有13 2同理
+TODO：ans: C 被13整除的质数只有13 2同理
+my: 1 和13  2只有2 还是要明确1不是质数也不是合数
 
-
-15.Note:Figure not drawn to scale
+15. Note:Figure not drawn to scale
 If x and y are numbers on the num-
 ber line above,which of the follow-
 ing statements must be true?
@@ -41,7 +40,7 @@ ans: B
 只知道x<0 y>0;并不知道具体的大小
 
 
-18.n is an even integer.
+18. n is an even integer.
 Quantity A:The number of prime
 factors of n
 Quantity B:The number of prime
@@ -65,14 +64,14 @@ ans:D 当n为4的倍数时，两者相同：令n
 因数，少了一个质因子2，所以A
 B。所以A和B的大小关系不确定。
 
-Quantity A:The
-number
-of
-primes that are divisible by 9
+my: 总是默认带入2的倍数 
+TODO：注意倍数
+
+
+19. Quantity A:The
+number of primes that are divisible by 9
 Quantity
-B:The number
-of
-primes that are divisible by 19
+B:The number of primes that are divisible by 19
 A.Quantity A is greater.
 B.Quantity B is greater.
 C.The two quantities are equal.
@@ -90,7 +89,7 @@ ans: B; 9本身的multiple 必不是质数，而19是，有且仅有他一个mul
 个位数为8的数的幂的个位数一定以8,4,2,6循环。
 ,个位数为9的数的幂的个位数一定以9,1循环。
 
-5.Quantity A:27^-8
+5. Quantity A:27^-8
 Quantity B:81^-6
 A.Quantity A is greater.
 B.Quantity B is greater.
@@ -104,7 +103,7 @@ ans: C;解：显然27和81都是3的幂次方，所
 相等。
 
 
-13.$N=824^x$,where x is a positive
+13. $N=824^x$,where x is a positive
 integer.
 Quantity A:the number of possi-
 ble values the units digit of N
@@ -114,6 +113,7 @@ B.Quantity B is greater.
 C.The two quantities are equal.
 D.The relationship cannot be deter-
 mined from the information given.
+
 13.已知N=824,且x是正整数。A:
 N的不同的个位数的数量，B:4。
 解：824的个位数等价于4的个位数，我
@@ -122,7 +122,7 @@ N的不同的个位数的数量，B:4。
 ber of问的是个数)，即$A<B$
 答：B
 
-14.If n is an integer,what is the least
+14. If n is an integer,what is the least
 possible value of $3^{n}+3*3^{-n}$
 A.1
 B.2
@@ -152,7 +152,7 @@ n≥2时，3"≥9，所以3”十3X3"
 最小值：
 
 
-16.$m=10^{32}+2$,when m is divided by
+16. $m=10^{32}+2$,when m is divided by
 11,the remainder is r.
 Quantity A:r
 Quantity B:3
@@ -171,19 +171,21 @@ given.
 3。即A=B。
 答：C
 
-20.If N is an integer and $99<N^{2}<200$,then N could have at most
+20. If N is an integer and $99<N^{2}<200$,then N could have at most
 how many values?
 A.Two
 B.Four
 C.Six
 D.Eight
 E.Ten
+
 解：注意N可取正数也可取负数，10^2
 =100,14^2=196,所以N能取的值
 有-14，-13，一12，-11，-10，
 10,11,12,13,14,共十个。
+TODO:平方注意正负
 
-6.If $1/(2^{11})*(5^{17})$is expressed
+6. If $1/(2^{11})*(5^{17})$is expressed
 as a terminating decimal,how man-
 y nonzero digits will the decimal
 have?
@@ -196,7 +198,7 @@ E.Eleven
 ans:1/5^6  -->0.2^6
 
 
-6.According to surveys at a company,20 percent of the employees
+6. According to surveys at a company,20 percent of the employees
 owned cell phones in 1994,and 60
 percent of the employees owned cell
 phones in 1998.From 1994 to
@@ -212,7 +214,7 @@ E.300%
 解：增加的百分比为
 $60\%-20\%\over{20\%}$=200%
 
-$0<x<y$
+7. $0<x<y$
 Quantity A:x percent of y
 Quantity B:y percent of x
 A.Quantity A is greater.
@@ -224,7 +226,7 @@ mined from the information given.
 解: A=$x\%*y=\frac{x}{100}*y=\frac{xy}{100}$
  B=$y\%*x=\frac{y}{100}*x=\frac{xy}{100}$
 
-Quantity A:22 percent of x
+8. Quantity A:22 percent of x
 Quantity B:2/9 of x
 A.Quantity A is greater.
 B.Quantity B is greater.
@@ -234,8 +236,9 @@ termined from the information giv-
 en.
 
 解：由于不知道x的正负 不可知
+TODO：不要默认一个x的正负，读题的限制条件
 
-By weight,liquid A makes up
+9. By weight,liquid A makes up
 8percent of solution R and 18 per-
 cent of solution S.If 3 grams of so-
 lution R are mixed with 7 grams of
@@ -257,7 +260,7 @@ A的重量占了混合溶液总量的多少？
 总重为1.5/(3+7)=15%。
 答：C
 
-11.If 55 percent of a group of people
+11. If 55 percent of a group of people
 have brown hair and 80 percent of
 the same group do not have red
 hair,what fraction of those who
@@ -268,6 +271,7 @@ B.4/11
 C.4/9
 D.5/9
 E.4/5
+TODO：my：not brown 45 red 20%,so red=45\*20%=9 
 解：这群人中456不是棕色头发，20%
 是红色头发。显然这20%红色头发
 的人全部属于45%不是棕色头发的

@@ -1,5 +1,6 @@
 1.频率分布
-21.The number of managers surveyed
+
+21. The number of managers surveyed
 who identified work experience as
 an important characteristic to con-
 sider was approximately what per-
@@ -12,6 +13,7 @@ B.20%
 C.25%
 D.30%
 E.35%
+
 21.在所有调查的经理中，认为工作经
 验重要的比认为合适的着装和态度
 重要的多多少？
@@ -20,7 +22,7 @@ E.35%
 那么(72%一55%)÷55%=31%。
 答：D
 
-22.If 48 percent of the managers sur-
+22. If 48 percent of the managers sur-
 veyed identified both ability to fol-
 low directions and computer ex-
 pertise as an important character-
@@ -33,6 +35,7 @@ B.18%
 C.23%
 D.25%
 E.28%
+
 22.如果调查的经历中有48%的人认为
 执行力强和精通电脑都很重要，那
 么认为这两个特征都不重要的经理
@@ -49,15 +52,15 @@ E.28%
 答：D
 
 
-45.Which of the following is closest
+45. Which of the following is closest
 to the average (arithmetic mean)
 of the 9 changes in the value of
 imports between consecutive years
 from2000to2009?
 A.260 million
 B.320 million
-C.$400 million
-D.$480 million
+C.400 million
+D.480 million
 E.640 million
 
 45,以下选项中，哪个最接近9个变化
@@ -71,7 +74,8 @@ E.640 million
 答：E
 
 <img src="./ana1.png">
-49.In the course of an experiment,95
+
+49. In the course of an experiment,95
 measurements were recorded,and
 all of the measurements were inte-
 gers.The 95 measurements were
@@ -101,17 +105,16 @@ measurements
 分布情况：极差range，四分位数距interquatile range，标准差standard deviation
 
 
-4.The table above shows the frequen-
+4. The table above shows the frequen-
 cy distribution of the heights of 80
 students.What is the least possible
-range of the heights of the 8
-80
-students?
+range of the heights of the 80 students?
 A.15
 B.16
 C.20
 D.24
 E.28
+
 4.上表给出了80位学生的身高分布，
 那么这80位学生可能的最小的极差
 是多少？
@@ -124,7 +127,7 @@ E.28
 range极差
 
 
-26.In a quality-control test,50 bo-
+26. In a quality-control test,50 bo-
 xes-each containing 30 machine
 parts-were examined for defec-
 tive parts.The number of defec-

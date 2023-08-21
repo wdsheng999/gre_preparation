@@ -1,11 +1,9 @@
-8.A bookcase has s shelves with n
+8. A bookcase has s shelves with n
 books on each shelf,where n is a
 multiple of both s and s-1.If all
 of the books on the highest shelf
-were removed and redistributed e-
-qually among
-the other shelves,
-which of the following represents
+were removed and redistributed equally among
+the other shelves, which of the following represents 
 the number of books that would be
 on each of the other shelves?
 A.$\frac{ns}{s-1}$
@@ -16,7 +14,7 @@ E$\frac{(n+1)(s-1)}{s}$
 
 ans:A
 
-If $-1<x<y<0$,which of the
+3. If $-1<x<y<0$,which of the
 following show the expression
 xy,x^2y,and xy^2 listed in order
 from least to greatest?
@@ -25,14 +23,14 @@ x^2y/xy^2=x/y>1, 但由于是负数要颠倒过来；
 如，取x=-2/3,y=-1/3,x/y=2, 但x更小
 
  
-6.If a,b,x,and y are positive inte-
+6. If a,b,x,and y are positive inte-
 gers,and $13^{a}·13^{b}=(13^{x})^{y}=13^{13}$,
 what is the average (arithmetic
 mean)of a,b,x,and y?
 
 13为质数且只有1 13两个因子
 
-17.x is a negative integer.
+17. x is a negative integer.
 Quantity A:$2^x$
 Quantity B:$3^{x+1}$
 A.Quantity A is greater.
@@ -47,7 +45,7 @@ given.
 解线性方程中主要是两端加减乘除
 解二次方程主要因式分解
 
-3.$|x+4|^2-10|x+4|=24$
+3. $|x+4|^2-10|x+4|=24$
 what is the sum of all possible solutions of the equation?
 
 ans:$y=|x+4|$ y>0
@@ -57,7 +55,7 @@ y=12
 若$\frac{a+c}{b+d}>\frac{a}{b}$,则$\frac{c}{d}>\frac{a}{b}$
 若$\frac{a+c}{b+d}<\frac{a}{b}$,则$\frac{c}{d}<\frac{a}{b}$
 
-1.The sum of n numbers is greater
+1. The sum of n numbers is greater
 than 48.If the average (arithmetic
 mean)of the n numbers is 1.2,
 what is the least possible value of
@@ -70,7 +68,7 @@ n?
 因为n肯定是整数，那么n最小可
 能等于41。
 
-6.Ifx+y≠0，which of the follow-ing is a solution to the inequality
+6. Ifx+y≠0，which of the follow-ing is a solution to the inequality
 below?
 $\frac{x^2-y^2-1}{x+y}>\frac{-1}{x+y}$
 Indicate all such answers.
@@ -86,7 +84,7 @@ G.x=-2 and y =16
 
 函数function
 
-7.The operation ☒ is defined for all
+7. The operation ☒ is defined for all
 integers x and y as x☒y=xy-y.
 If x and y are positive integers,
 which of the following CANNOT
@@ -102,7 +100,7 @@ ans:D xy>0
 应用题 real problems
 不仅涉及算术代数几何，而且考察经济统计和物理的基础知识。 要能读懂文字
 
-1.At a certain elementary school,10
+1. At a certain elementary school,10
 percent of the fifth-grade students
 are members of the school band.If
 12 percent of the fifth-grade boys
@@ -115,13 +113,14 @@ B.12%
 C.20%
 D.30%
 E.50%
+
 解：根据题意可以列出方程，设男孩有
 x人，女孩有y人，则12%x十8%
 y=10%(x+y),解得x=y,所有
 男女生各占50%。
 
 
-4.A pianist agreed to perform one
+4. A pianist agreed to perform one
 concert at a fee 12.5 percent less
 than her usual fee and a second
 concert at a fee 20 percent
@@ -137,7 +136,7 @@ E.32.5%
 
 ans:87.5%*1.2-1
 
-8.Mike,Scott,Jim,Kate and Pete
+8. Mike,Scott,Jim,Kate and Pete
 each have a different number of as-
 signments this month.Pete has fe-
 wer assignments than Kate,Kate
@@ -157,7 +156,7 @@ E.Pete
 
 ans:ACE
 
-10.For each of the last 5 years,the
+10. For each of the last 5 years,the
 population of a colony of beetles
 increased by 8 percent of the pre-
 ceding year's population.If P re-
@@ -168,7 +167,7 @@ years ago,in terms of P?
 
 ans:1.08^-5
 
-11.The width and the length of a rectangular piece of plywood are 4
+11. The width and the length of a rectangular piece of plywood are 4
 feet and 8 feet,respectively.A-
 long one edge of the plywood,a
 strip x inches wide and 8 feet long
@@ -181,7 +180,7 @@ to 5?(1 foot =12 inches)
 
  ans:注意这个1 foot=12 inches
 
-12.The decorating
+12. The decorating
 committee for a dance plans to fringe the 3-inch-wide end of a streamer by making small cuts every 1/16 inch.
 How many cuts must be made to fringe the end?
 A.45
@@ -193,7 +192,7 @@ E.49
 ans:C 最后一刀不剪
 
 
-14.The 20 people at a party are divided into n
+14. The 20 people at a party are divided into n
 mutually exclusive groups in such a way that the number of people in any group does not exceed the number in any other group by more than 1.
 Quantity A:The value of n if at least one of the groups consists of 3 people
 Quantity B:6
@@ -212,7 +211,7 @@ be determined from the information given.
 答：D
 
 
-15.Anne pays 150
+15. Anne pays 150
 percent more for a
 wholesale widget than Bart pays.
 Anne's retail price per widget is
@@ -243,14 +242,14 @@ Bart零售卖出每件装饰品的价格比
 解：设Bart的批发进价为x,那么Anne的批发进价为2.5x,Bart的零售价为2.85x,Anne的零售价格2.5x(1+15%)=2.875x>2.85x,所以A>B。
 答：A
 
-16.Last year Leo bought two paint-
+16. Last year Leo bought two paint-
 ings.This year he sold them for
-$2,000 each.On one,he made a
+\$2,000 each.On one,he made a
 25%0 profit,and on the other he
 had a 25%loss.What was his net
 loss or profit?
 A.He broke even.
-B.He lost less than $100.
+B.He lost less than \$100.
 C.He lost more than 100.
 D.He earned less than $100.
 E.He earned more than 100.
@@ -259,19 +258,18 @@ ans:C
 painting 1:2000/1.25=1600
 painting 2:2000/0.75=2666.67
 
-20.The total amount that Mary paid
+20. The total amount that Mary paid
 for a book was equal to the price
 of the book plus a sales tax that
 was 4 percent of the price of the
 book.Mary paid for the book with
 a 10 bill and received the correct
-change,which was
-s less than
-$3.00.Which of the following
+change,which was less than
+\$3.00.Which of the following
 statements must be true?
 Indicate all such statements.
 A.The price of the book was less
-than$9.50.
+than\$9.50.
 B.The price of the book was
 greater than 6.90.
 C.The sales tax was less than
@@ -286,28 +284,18 @@ B.书本身的价格可以是6.73到10之间的任意一个值。B选项错误�
 C.我们已知销售税在0.2692到0.4之间，即小于0.4，所以一定小于0.45。C选项正确。
 
 超级长题目：：
-27.At a certain company,employees who earn 20.00 per hour will be given an increase of $1.00 per hour.For each of the other employees,either the employee will
-be given an increase of 1.00 per hour or the employee will be given
-a percent increase
-e equal to the
-percent increase that will be given
-to the employees
-who earn 20.00 per hour,whichever results in a larger increase for that
-employee.Which of the following
-statements are true?
+27. At a certain company,employees who earn 20.00 per hour will be given an increase of \$1.00 per hour.For each of the other employees,either the employee will be given an increase of 1.00 per hour or the employee will be given a percent increase equal to the percent increase that will be given to the employees who earn 20.00 per hour,whichever results in a larger increase for that employee.Which of the following statements are true?
 Indicate all such statements.
-A.An employee who earns less than 20.00 per hour will be given a percent increase
-that is greater than the percent increase that will be given to the
-employees who earn
-20.00 per hour.
-B.An employee who earns 22.00 per hour will be given an increase of $1.10 per hour.
-C.An employee who earns
-$24.00 per hour will earn 25.20 per hour after the increase.
+A.An employee who earns less than 20.00 per hour will be given a percent increase that is greater than the percent increase that will be given to the employees who earn 20.00 per hour.
+B.An employee who earns 22.00 per hour will be given an increase of \$1.10 per hour.
+C.An employee who earns \$24.00 per hour will earn 25.20 per hour after the increase.
 
 解：由题目可知，每小时挣20美元的员工时薪的涨幅为5%。时薪小于20美元的员工应选择“每小时工资上涨1美元的变化方式”，时薪大于20美元的员工应该选择“每小时工资上涨5%”的变化方式。
+ans: BC
 
-28.A certain money market account
-that had a balance of $48,000
+
+28. A certain money market account
+that had a balance of \$48,000
 during all of last month earned
 $360 in interest for the month.
 At what simple annual interest

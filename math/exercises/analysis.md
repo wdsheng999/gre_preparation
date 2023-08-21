@@ -174,12 +174,13 @@ determined from the information
 排列与阶乘 permutation and factorial
 组合 combination
 
-1.The 5 letters in the list G,H,I,J,K are to be rearranged so that G is the 3rd letter in the list and H is not next to G.How many such rearrangements are
+1. The 5 letters in the list G,H,I,J,K are to be rearranged so that G is the 3rd letter in the list and H is not next to G.How many such rearrangements are
 A.60
 B.36
 C.24
 D.12
 E.6
+
 解：G位于第三个位置且H和G不挨
 着，所以H不能在第二个和第四个
 位置，所以H可以在第一个或者第
@@ -190,7 +191,7 @@ E.6
 式，所以一共有6+6=12种。
 
 
-6.Ben has 30 pencils in a box.Each
+6. Ben has 30 pencils in a box. Each
 of the pencils is one of 5 different
 colors,and there are 6 pencils of
 each color.If Ben selects pencils
@@ -220,7 +221,7 @@ E.28
 个。总共24+2=26个。
 
 
-11.There are 10 people in a room.I
+11. There are 10 people in a room.I
 each person shakes hands with ex-
 actly 3 other people,what is the
 total number of handshakes?
@@ -229,6 +230,7 @@ B.30
 C.45
 D.60
 E.120
+
 解：先不考虑重复的情况下，每个人都
 与3个人握手，则一共出现3×10
 30次握手，但是自己与另一人握手
@@ -237,18 +239,47 @@ E.120
 要除以2，即一共出现了15次握手。
 答：A
 
+另解：
+先选两组 10c2=45 此时每个人和另外九个人握手 只要和另外三人 则 45/3=15
+
+
 这里存在一个误区：
-只需要握三次，具体握手的顺序是不强调的。很多同学在做这题的时候，局限于A和BCD三个人握
-手和和EFG三个人握手是不同的情况，但是题目中问的不是有多少种握手的组合，而是握手的次
-数，也就是不管A和BCD握手还是A和EFG握手，在总的屋手次数中这只算三次。
+只需要握三次，具体握手的顺序是不强调的。很多同学在做这题的时候，局限于A和BCD三个人握手和和EFG三个人握手是不同的情况，但是题目中问的不是有多少种握手的组合，而是握手的次数，也就是不管A和BCD握手还是A和EFG握手，在总的屋手次数中这只算三次。
+
 
 关于握手例题：
 2:There are 7 football teams in a game.If each team plays three games with each of
 the six other teams,what is the total number of games?【题意】有7只球队，每个球队和其
 他6支球队都要踢3次球，一共要踢多少场比赛？
-【解析】和握手题同理，虽然这题是每个组合要题3次，但是还是用上面的屋手题的解题思想来
-做。假设每个球队和其他6支球队踢1次，那么就是7×6：2=21场，实际题意是每个球队和其他6支
-球队踢3场，所以21×3=63场比赛。
+【解析】和握手题同理，虽然这题是每个组合要题3次，但是还是用上面的屋手题的解题思想来做。假设每个球队和其他6支球队踢1次，那么就是7×6：2=21场，实际题意是每个球队和其他6支球队踢3场，所以21×3=63场比赛。
+
+有个问题 如果乘出来的结果不是2的倍数呢 如果7个队踢其他三个队 3*7=21/2=10.5 不是2的倍数 怎么办？
+
+如上例题 当5个人和其他1个人握手 5
+2个人 5\*2/2=7
+3个人 5\*3/2=10.5 如下分析 应该是6
+
+---
+To answer :: Substitute 5 in place of 10. What do you get? Why?
+
+Will there be only 6 handshakes ?
+
+A: B, C, D -->3
+B: C, D -->2
+C: D --1
+D:
+E =0 because A, B, C, and D already shake hands with each other and only 3 exactly handshakes are allowed. So no one is left to shake hand with E.
+
+Is my thinking correct ?
+
+A, B, C and E have 3 handshakes each but D has only 2 handshakes.
+It is not possible for D to have a 3rd handshake. That is why we get 7.5 when we use the formal method.
+
+问题的关键在于，只和几个人握手 最后会被剩下，如果这个数是一个奇数。
+
+---
+
+
 
 同样的例题：例题1：Every two companies participating in a trade fair have signed a
 contract,and all companies have signed 45 contracts.How many companies participate in
@@ -256,7 +287,7 @@ the trade fair?
 【解析】同握手问题，假设是A和B两家公司，AB两家公司签订一份就行，不是两份。可以直接用
 公式：假设共有x家公司参加交易会：x(X-1)/2=45→x=10
 
-12.In how many different ways can 3
+1.  In how many different ways can 3
 identical green shirts and 3 identi-
 cal red shirts be distributed among
 6 children such that each child re-
@@ -273,6 +304,8 @@ E.729
 个小孩就分配另一个颜色。从6个
 小孩中选出3个有C(3,6)=20种选法，
 即一共有20种不同的分配方式。
+
+或6!/3!/3！
 
 15.N equals the number of positive 3-digit numbers that contain odd digits only.
 Quantity A:N

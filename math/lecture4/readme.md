@@ -63,9 +63,9 @@ C,what is the number of square units in the area?
 (B)8
 (C)4π
 (D)8π
-(E)I6π
+(E)16π
 
-ans:C wrong $\pi*r^2=2*2*\pi*r$
+ans:E wrong $\pi*r^2=2*2*\pi*r$
 square units: 面积单位  linear units: 长度单位  
 
 <img src="./2.png">
@@ -119,7 +119,7 @@ guess:D 猜对了 尽可能让每个边整除
 ## - 直角坐标系
 
 直线方程：
- 斜截式：y=kx+b k-slope,b-intercept  
+ 斜截式：$y=kx+b$ k-slope,b-intercept  
  斜率：$k={{y_2-y_2}\over{x_2-x_1}}$  
  互相垂直 斜率product=-1  
 

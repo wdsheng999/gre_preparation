@@ -183,7 +183,7 @@ ans：
 (2) Q2=19 Q1=14 Q3=24 Interquartile range=10;  
 
 
-7.方差(ariance):一组数据中每个数与算术平均数
+7.方差(variance):一组数据中每个数与算术平均数
 之差的平方和的算术平均数.
 8.标准方差(Standard Deviation):方差的平方根
 
@@ -228,7 +228,8 @@ E: 88-85/3=1
 2标准方差
 记住：
 1平均数正负一个标准方差之间一68%  
-2平均数正负一个标准方差之间一96%  
+2平均数正负两个标准方差之间一96% 
+3平均数正负三个标准方差之间一99%
 
 
 Suppose the weights of a population of 1,000 apples from a

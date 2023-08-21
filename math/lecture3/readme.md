@@ -11,7 +11,7 @@ greatest for n
 (D)2
 (E)3
 
-ans:D  -5^n
+ans:c  -5^n
 
 底数：base  指数：exponent  
 

@@ -67,3 +67,22 @@ GRE数学题型分布
 ### 进阶
 
 [满分宝典](./math/%E5%BC%A0%E5%B7%8DGRE%E6%95%B0%E5%AD%A6%E6%BB%A1%E5%88%86%E5%AE%9D%E5%85%B83.0.pdf)  
+
+
+寄托家园 
+
+
+[[经验感悟] GRE一战333，3个月备考实录，半自学经验分享！！ ](https://bbs.gter.net/thread-2531374-1-1.html)
+
+上文件放在 [寄托资料](./%E5%AF%84%E6%89%98%E8%B5%84%E6%96%99/)
+
+## 模考资料
+小站gre
+
+ETS PowerPrep Test：两次模拟
+
+CrunchPrep GRE practice: 一次免费评分
+
+Manhattan Prep GRE Practice Test
+
+Kaplan GRE Practice Test

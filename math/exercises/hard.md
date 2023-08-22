@@ -617,3 +617,24 @@ C.算术平均数也无法决定最大值，所以C选项也无法推出学生�
 23 29 十个
 31 37
 
+### 第二套
+
+12. In a distribution of 850 different measurements,x centimeters is at the 73rd percentile.If there are 68 measurements in the distribution that are greater than y centimeters but less than x centimeters,then y is approximately at what percentile in the distribution?
+A.45th
+B.50th
+C.55th
+D.60th
+E.65th
+
+解：x是其中第73个百分位数，说明数据中有73%的数据比他小，又因为有68
+个数据大于y而小于x,这68个人占850的8%，所以有73%一8%=65%
+的数据比y小，所以y大概是第65个百分位数。
+答：E
+
+17. 译：在1到101的整数中，有多少整数所有数位上的数字之和为2？
+解：因为1021所有数位上的数字之和不为2，所以我们考虑1到102一1之间的整
+数就可以了。一共有21个数位，当数字之和是由2一个数字构成的，即有
+一个数位上是2其他数位均为0，这样的数共有=21种；如果数字之和2
+=1十1，即有两个数位上是1，其他数位均为0，这样的数共有C=210,所
+以共有210+21=231个。
+答：E

@@ -638,3 +638,27 @@ E.65th
 =1十1，即有两个数位上是1，其他数位均为0，这样的数共有C=210,所
 以共有210+21=231个。
 答：E
+
+
+14.Bucket Q currently contains 5 times as much water as bucket R contains.If 10 liters of water
+will be transferred from Q to R,then Q will contain 2 times as much water as R will contain.
+How many liters of water does Q currently contain?
+A)10
+B)20
+C)30
+D)40
+E)50
+
+ans:E not D
+currently : 不用减10
+
+18.List L consists of 9 different numbers,all of which are positive integers.The median of the
+numbers in L is 11.What is the least possible average (arithmetic mean)of the numbers in L?
+A.5
+B.$5\frac{2}{9}$
+C.$6\frac{5}{9}$
+D $7\frac{2}{3}$
+E.$8\frac{1}{3}$
+
+ans:E nine different my C
+

@@ -155,6 +155,93 @@ GRE的词汇题 还是主要考察逻辑。
 
 [长难句分析](./long.md)
 
+题型：主旨题 事实信息题 句子作用题 推断题
+
+### 句子作用题：句子句子间 内的关系
+同向：举例 解释等 in other words,for example, similarly, like
+反向 对比 转折 A departure from B , however, A puzzles B,  in contrast
+
+解题步骤：
+1. 利用同反向关系进行第一步排除，看选项中的动词 与主旨题相似
+   表示修饰 限定的动词往往是正确的 qualify limit 一般都对
+   这一步一般能排除两三个
+2. 有限考虑包含下列字眼的选项
+   made in the preceding sentence 
+   cited in the opening sentence
+   expressed in the following sentence
+
+3. 
+
+### 推断题 infer imply suggest
+1定位2精读3推断
+同义推断 类似于改写 
+反向推断
+1.时间取反：过去有 现在没了 --》until
+2,比较取反 已知A有x A不等于B 推出b无x 比较
+
+例题 passage52
+
+>1 The physicist Wallace Sabine pioneered the scientific study of architectural acoustics when he
+was asked in 1895 to fix a university lecture hall in which the echo of a speaker's words rendered
+them unintelligible.2 He found that the length of time it takes a sound's echo to decay is
+determined by the absorption of the sound's original energy by surrounding material.3 By
+hanging panels of sound-absorbing felt on the walls,Sabine reduced the echo enough to make
+the hall usable.4 And the data he compiled yielded a mathematical formula for the relationship
+between a room's echo duration,its quantity and quality of sound-absorbing materials,and its
+spatial volume.
+
+长句子一定要拆 第一句 when, in which 
+
+1. Which of the following can be inferred about the "university lecture hall"
+mentioned in the passage?
+A It was not originally designed to be used for lecture.
+B It was more suitable for listening to music than for listening to the spoken word.
+C Its walls had surfaces made of material with very poor sound-absorbing properties.
+D Its poor acoustics resulted from its being designed to accommodate a large audience.
+E It was constructed at a time when sound-absorbing building materials were not readily available.
+
+ans:C 
+
+2. The passage suggests that Sabine's work made which of the following possible for the first time?
+A to make a room soundproof
+B to build an auditorium out of sound-absorbing materials
+C to construct an enclosed space in which sound would not echo
+D to design a building to meet predetermined specifications with regard to echo duration
+E to render any large room usable for public lectures and performances
+
+my:D
+ans:D
+
+passage 216
+
+>1Favorable environments do not necessarily lead to the occurrence of plant cultivation.2
+South China is warmer and moister than North China and the Yangtze Basin,with wild rice
+and highly abundant natural resources.3 Yet archaeological data indicate that cereal
+cultivation did not occur in this region until approximately 7.000 to 6,500 years ago.4This
+cultivation was likely a result of cultural contact with and expansion from the Yangtze Basin.
+5 Clearly,environmental factors were important for the occurrence of cultivation in China,but
+were not the absolute determining factors.6While incipient cultivation might occur in areas
+of relatively abundant resources,it may not occur in areas of very abundant resources,such as
+South China,where foraging might be a more efficient way of life.
+
+1. The author implies which of the following about natural resources in South China prior to 6,500 years ago?
+A Their abundance may have actually served to discourage the development of plant cultivation.
+B They were not as abundant as most archaeologists have maintained.
+C They led indirectly to cultural contact with peoples from the Yangtze Basin.
+D Their importance has been downplayed by scholars studying the beginnings of plant cultivation in South China.
+E They had little influence on the types of plants that were eventually cultivated in South China
+
+my:A ans:A
+
+2. Which of the following can be inferred from the passage about plant cultivation in the Yangtze Basin?
+A It occurred in spite of an unfavorable climate.
+B It occurred prior to 6.500 years ago.
+C It occurred somewhat later than it occurred in North China.
+D It occurred largely because of the abundance of wild rice in the region.
+E It occurred as a result of cultural contact with South China.
+
+my:C ans:B  注意yangtze basin是North China的并列
+
 ## 逻辑单题
 [逻辑单体系列](./logic.md)
 

@@ -662,3 +662,41 @@ E.$8\frac{1}{3}$
 
 ans:E nine different my C
 
+
+因数个数
+
+
+93.a and b are distinct odd prime numbers..
+Quantity A:The number of factors of 2ab2
+Quantity B:The number of factors of a2b3
+
+93.C
+提示：这个题问的是因数个数，我们上课讲过因数个数的计算公式。请大家心里默背一遍。
+解析：
+QA=2*2*3=12
+QB=3*4=12
+
+
+99.How many integers between 100 and 1,000 have a hundreds digit that is even,a tens digit that is odd,and a non-zero units digit that is divisible by3?
+A15
+B30
+C45
+D60
+E75
+
+my：D ans:60 通过数出来的 
+$4*5*3$
+
+
+104.B is a positive integer,and A is 125 greater than B.Which of the following statements
+must be true?
+Indicate all such statements.
+A.A is odd.
+B.B is even.
+C.A+B is odd.
+D.A-B is even.
+E.AB is even.
+
+my:CDE ans:CE
+A-B=0
+

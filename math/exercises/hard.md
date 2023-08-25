@@ -700,3 +700,12 @@ E.AB is even.
 my:CDE ans:CE
 A-B=0
 
+
+130.r is the remainder obtained dividing $7^995+7^50-4$ by 7
+Quantity A:r
+Quantity B:4
+
+my:1+1-4 / 7 =-2/7=5 A
+ans:0+0-4/7=3 B
+
+

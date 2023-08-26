@@ -709,3 +709,46 @@ my:1+1-4 / 7 =-2/7=5 A
 ans:0+0-4/7=3 B
 
 
+15.Five different families received tax bills at the beginning of the year.Later,the four lowest
+tax bills were each reduced by $200 while the highest tax bill remained the same.
+Quantity A:The standard deviation of the original five tax bills
+Quantity B:The standard deviation of the resulting five tax bills after the four lowest tax bills
+were reduced
+解析：最小的4个数字减少了200美金，所以增加了数字的离散度，所以标准方差变大。
+
+我还在纠结的是均值变了多少，事实上对这个问题进行极端化， 只有一个减少或增加 方差变大
+
+
+35.List L consists of the integers from I to 99 and two integers c and d such that c+d=100 and
+cd<0.
+Which of the following statements must be true?
+Indicate all such statements.
+A.
+The average (arithmetic mean)of the numbers in L is equal to the median of the
+numbers in L.
+B.The range of the numbers in L is greater than 100.
+C.The range of the numbers in L is less than 200
+
+MY:B ans:AB
+avg=50 median=50 注意是一共100个元素而不是102
+
+
+36.Among the incoming students at a certain college,an equal number of full-time and part-time
+student received a welcome package.If 3/16 of the incoming full-times and 5/12 of incoming part-time,students received a welcome package,what fraction of the incoming students received a welcome package?
+
+my: wrong for two times
+
+ans:15/58
+
+
+40.Point P lies inside rectangle ABCD so that PA=2.PB=3,and PC=4.What is the value of PD?
+A.$\sqrt{11}$
+B.$\sqrt{13}$
+C.$\sqrt{20}$
+D.$\sqrt{21}$
+E.$\sqrt{29}$
+
+解析：设PD为z，设P到AD的高是x，设P到BC的高是y，则可以列出算式4-x^2=9-y^2, z^2-x^2=16-y^2, 最后可以解除z是根号11。
+ans":A
+my:C  21是因为abcd没有按顺序
+

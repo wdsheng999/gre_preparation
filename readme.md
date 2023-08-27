@@ -79,7 +79,7 @@ GRE数学题型分布
 ## 模考资料
 小站gre
 
-考满分 
+考满分  雷哥gre
 
 ETS PowerPrep Test：两次模拟
 
@@ -88,3 +88,15 @@ CrunchPrep GRE practice: 一次免费评分
 Manhattan Prep GRE Practice Test
 
 Kaplan GRE Practice Test
+
+## verbal
+
+黄欣讲gre填空 
+
+填空机经生词伴侣
+
+阅读 青山学堂 gre 逻辑题
+双线阅读法
+机经380 重在复盘
+
+

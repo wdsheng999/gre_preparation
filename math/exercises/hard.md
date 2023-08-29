@@ -752,3 +752,72 @@ E.$\sqrt{29}$
 ans":A
 my:C  21是因为abcd没有按顺序
 
+
+If a and b are integers and$(\sqrt[3]{a}*\sqrt{b})^6=500$,then a+b could equal
+2
+3
+4
+5
+6
+
+ans: 500=2^2*5^3 此处2可以为-2
+ans=3
+
+In how many ways can 16 different gifts be divided among four children such that each child receives exactly four gifts?
+
+第一步：平均分组问题 分法=(C4 16)*(C4 12)*(C4 8)*(C4 4)/4! ；第二步：将4组礼物分给4个不同的人 分法=A4 4=4！；总分法=(C4 16)*(C4 12)*(C4 8)*(C4 4)=16!/(4!)^4
+
+If the average (arithmetic mean)of x,y,z,5,and 7
+is 8,which of the following must be true?
+I.The median of the five numbers cannot be 5.
+II.At least one of x,y,and z is greater than 9.
+III.The range of the five numbers is 2 or more.
+A I only
+B ll only
+C lll only
+D I and III
+E II and III
+
+my:B ans:E 
+我直接把3排除了 但是是or 所以3一定对
+
+range>=3 至少 
+
+
+If x and y are positive integers, and 1 is the greatest common divisor of x and y, what is the greatest common divisor of 2x and 3y?
+my:1
+ans:cannot be determined
+
+The average (arithmetic mean) of 4 different integers is 75. If the largest integer is 90, what is the least possible value of the smallest integer?
+
+my:30 ans:33 没看到different
+
+不要约分
+
+Sarah invested $38,700 in an account that paid 6.2% annual interest, compounding monthly. She left the money in this account, collecting interest for three full years. Approximately how much interest did she earn in the last month of this period?
+
+my:7888.83 ans239.47问的是最后一个月的
+估算，先忽略monthly，按年算，38700*（1+6.2%）^3=46363.7，46353.7*6.2%/12=239.49
+
+按年算利息，实际利息比按年算的要稍微高点，但是偏差不多
+
+
+How many positive integers less than 10,000 are such that the product of their digits is 210?
+
+210=2*3*7*5 OR 5*6*7 OR 1*5*6*7
+
+A(4,4)+A(4,4)+A(3,3)=54
+
+If (-1/2)N > (-8)，which of the following could be the value of N?
+-10
+-7
+-3
+0
+3
+10
+my:10 0 3 10
+ans:-10 -7 -3 0 10
+
+需要分为奇偶，正负考虑。比较复杂，考场最快方法为每个选项计算一遍。由选项可知，N 为整数，当 N 为偶数时，左边不等式肯定大于 0，进而大于-8，所以任意取值均可；当 N 为奇数且N 大于 0 时，左边不等式肯定大于等于-1/2，进而大于-8，所以任意取值均可；当 N 为奇数且N 小于 0 时，N需要大于-3, 也就只有-1 可以。综上，N 的取值范围为-1，所有偶数以及正数。
+
+答案也错了

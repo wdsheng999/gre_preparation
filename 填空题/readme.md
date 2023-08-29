@@ -311,3 +311,169 @@ ans:D
 
 ### 技巧三：关键词大法
 
+题干中的关键词 同义 反义
+
+#### 3.1 同义词
+and,also,or,as well
+as,
+just as...so...,not only...but
+also...,such ...as,no greater
+(more、better).than.
+单独的and两边取同 组合词 如both and between and 两边并列
+because,
+since,when,as,in that,for,for the simple reason
+that,therefore,thus,accordingly,consequently,given,
+thereby,due to,hence,so...that,so...as to,if,if...then,as
+a result,result in,in the sense that,cause,give rise to,
+when...then,as long as...;
+in order to,by,for,result from,lead to...;
+even,indeed,quite possibly
+这些词汇都可以替代because 在写作中
+
+只要在句子中没有明确的否定一般都是同义重复 但具体是那两个对象重复 还需要仔细的验证
+
+14.The new biological psychiatry does not deny the contributing
+role of psychological factors in mental illnesses,but posits that
+these factors may act as a catalyst on existing physiological
+conditions and ____such illnesses.
+A disguise
+B impede
+C constrain
+D precipitate
+E consummate
+
+my:D 
+解析 介词后面都不看 空格等同于act as a catalyst 
+ans:D
+
+15 He was regarded by his followers,as something of____,not only because of his insistence on strict discipline,but also because of his____adherence to formal details.
+(i)Aa martinet B an authorityC a tyrant
+(ii)D rigidE reluctantF sporadic
+
+my martinet 不认识 错选C 也可以将bc排除掉
+
+
+解析 something 这一类的词可以当没看见 
+
+
+16 Edith Wharton sought in her memoir to present herself as having achieved a harmonious wholeness by having____the conflicting elements of her life.
+A affirmed
+B highlighted
+C reconciled
+D confined
+E identified
+
+my:逻辑趋同宾语意义却相反 则这里的空取反意
+或者就是harmonious了这些冲突 C
+
+解析 关键词 by 被动语态或手段分析  两边的逻辑一定是一致的 都不用管主干 左右一定是平衡的
+
+
+正负评价词是对于被修饰的对象的 加强了对象的趋势就是正 不能关注于汉语的意义
+如 疾病恶化了 恶化就是正评价
+
+如 
+overtake  A overtake B 对b来说是正评价
+provoke 激起/激怒 做激起 正 激怒负
+comprise 跟上面那个很像 损害负 妥协B 正
+manage A manage B 强调A弱化B 负
+
+形容词
+notorious 臭名昭著的 不能看汉语的意义
+他有一个臭名昭著的名声 负
+这是一个臭名昭著的难题 正
+
+17 In the seventeenth century,direct flouting of a generally accepted system of values was regarded as ____,even as a sign of madness.
+A adventurous
+B frivolous
+C willful
+D impermissible
+E irrational
+
+my: 空等于 madness 选B
+解析 B 的递进不是发疯  轻浮的 
+E 我看成irrelated 但其实是unrelated
+
+#### 3.2 反义重复
+
+albeit,notwithstanding,although,though
+but,despite,however,in spite
+of,nevertheless,nonetheless,while,whatever,regardless,even if,even
+though,whereas,yet;
+
+这些都是转折 也可以放在作文中 不要用although
+
+
+In contrast (to),on the contrary,far from,on the other hand,rather
+than,instead of,not...but,more...than;paradoxically,ironically,
+surprisingly,unexpectedly,curiously;
+
+decay from A to B,shift from A to B,reconcile A with B,replace A with B.
+distinguish between A and B,mistake A for B; 都表示AB逻辑取反
+
+before,once,until,previous,current,recently,early,now,medieval
+today,later,future,initially,formerly,pristine,after,no longer......:时间对比题 两个时间上谈同一个问题 一定是反
+
+18 The eradication of pollution is not merely a matter of _____though the majestic beauty of nature is indeed an important consideration.
+A economics
+B legislation
+C cleanliness
+D aesthetics
+E restoration
+my:空就是 beauty 选D
+
+19.Comparatively few rock musicians are willing to laugh at themselves,although a hint of____can boost sales of video clips very nicely.
+A self-deprecation
+B congeniality
+C cynicism
+D embarrassment
+E self-doubt
+my: 空就是laugh at themselves 选A
+选项C 愤世嫉俗 嘲笑别人 
+选项E 仔细也可排除 
+
+20、The children's____natures were in sharp contrast to the even-tempered dispositions of their parents.
+A mercurial
+B blithe
+C phlegmatic
+D introverted
+E artless
+关键单词不认识 排除E D 盲选C 冷淡的
+blithe 愉悦的
+应该选A 水星的
+
+in stark contrast to 完全相反 用在写作
+
+#### 关键词总结
+
+找不到取非就是同义重复 
+
+but 和not but 都是但是 就像 我好容易完成 我好不容易完成
+
+### 技巧四：无赖大法
+
+前几个失效的时候猜答案
+
+#### 第一式 说什么找什么
+题目中有 的
+
+28.During periods of social and cultural stability,many art academies are so firmly controlled by__that all real creative work must be done by the____
+(i)A dogmatists B specialistsC managers
+(ii)D disenfranchised E imposters F elite
+
+确实看不懂 排除选A
+因为so that 两边都有空格 没有重复信息
+
+第一空一定和创新工作有关 选A
+B和F 都是干扰选项 
+第二空一定是 能创新者  D 被剥夺了权力的人 
+
+29、Among the many____of the project,expense cannot be numbered;the goals of the project's promoters can be achieved with impressive____
+(i)A features B highlights C defects
+(ii)D innovation E efficiency F economy
+
+
+主谓宾里面都没有空格并且信息不连贯 在第一遍看的时候两个空格都被略去
+先主干后细节 先看第二个空
+
+

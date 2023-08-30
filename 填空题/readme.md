@@ -475,5 +475,147 @@ B和F 都是干扰选项
 
 主谓宾里面都没有空格并且信息不连贯 在第一遍看的时候两个空格都被略去
 先主干后细节 先看第二个空
+第二个空 补充原来没有给出的意义 与expense有关 F
+第一个空 前一句逻辑有cannot 第二局是正逻辑 于是 找一个负评价词 C
+
+#### 第二式 选项中出现反义词肯定在其中
+
+30 Parts of seventeenth-century Chinese pleasure gardens were not necessarily intended to look____;they were designed expressly to evoke the ____ agreeable melancholy resulting from a sense
+of the of natural beauty and human glory.
+(i)A beautifulB cheerfulC luxuriant
+(ii)D immutabilityE transitorinessF wildness
+
+第二局将逻辑主线为正 melancholy 一个负意义 三合一 则第二空是负评价词 E
+第二局为他们引起忧伤  第一句也是负评价 又有not 则 都以空为 not melancholy B
+
+#### 第三式 反的第一式 题干中的反义词
+
+33 New research on technology and public policy focuses on how seemingly____ design features,generally overlooked in most analyses of public works projects or industrial machinery,actually____social choices of profound significance.
+(i)A insignificant B innovative C ingenious
+(ii)D mask E produce F permit
 
 
+解析generally overlooked 是 features 
+
+第二空 左右 右：正 左：overlooked features 负评价
+所以第二空是负评价 D
+
+第一空 形容词挖掉了 第二主干或三位一体
+第一空就是overlooked A
+
+#### 第四式 优选情感强烈
+
+34 Few of us take the pains to study our cherished convictions, indeed,we almost have a natural ____doing so.
+A aptitude for
+B repugnance to
+C interest in
+D ignorance of
+E reaction after
+
+关键在于take the pains to是负评价吗 不遗余力做 正
+B
+
+### 第五式 选项中的正负
+找选项中的信息
+
+#### 技巧五：难题技巧 画图
+
+38 Unenlightened authoritarian manage rarely recognize a crucial reason for the low levels of serious conflict among members of democratically run work groups:a modicum of tolerance for dissent
+often prevents____
+A demur
+B schism
+C cooperation
+D compliance
+E shortsightedness
+
+主干 manage --> reason A--> B
+现在出来了三个主体 tolerance 记为C
+ 现在要 A' --> B' 则我用C --> B'
+ 现在 右prevents 则空为 非B'
+将 reasons 取非 但是不好取
+什么样的reasons ： low levers of serious conflict的reasons
+于是将上面取非 则选B 严重冲突的高水平  不选A 
+这里也有更强烈的做法
+
+40 The old man could not have been accused of ____his affection;his conduct toward the child betrayed his____her.
+(i)A rationingB stinting C promising
+(ii)D tolerance ofE adoration ofF dislike of
+
+第一空 accused 三位一体 第一空不好的 stinting 吝啬的  B
+betray 在gre中解释为显露出 正评价词
+所以第二空 正评价  E  
+
+另 EF 为一对反义词 
+
+41 Broadway audiences have become inured to____and so____to be pleased as to make their ready ovations meaningless as an indicator of the quality of the production before them.
+A sentimentality..reluctant
+B condescension..disinclined
+C histrionics..unlikely
+D cleverness..eager
+E mediocrity..desperate
+
+my:E  从 as to meaningless 知道第二空是负 选最强烈的
+
+#### 难题2 时间对比难题
+
+41 Within the next decade,sophisticated telescopes now orbiting the Earth will determine whether the continents really are moving,____the incipient ____among geologists about the validity of the theory of continental drift.
+(i)A forestallingB escalatingC engendering
+(ii)D consensus E rift F rumors
+
+第二空细节题 三位一体 早期的 就是 telescope还没决定的 我这里读题给出的是共识选D 但是这个已经决定了 所以E 分歧
+第一空是被第二空否定的 时间上的对比 于是A
+
+42 Until the current warming trend exceeds the range of normal climatic fluctuations,there will be,among scientists,considerable____ the possibility that increasing levels of atmospheric CO2 can cause long-term warming effects.
+A interest in
+B uncertainty about
+C enthusiasm for
+D worry about
+E experimentation on
+
+my:B
+until先不看 主体式there will be 空格， 直到某事发生
+空格就是 没发生的状态 不明白
+
+#### 难题三 三空题 基本放弃
+
+43.It is refreshing to read a book about our planet by an author who does not
+allow facts to be (1)
+_by politics:well aware of the political disputes
+about the effects of human activities on climate and biodiversity,this author does not
+permit them to (2)
+his comprehensive description of what we know
+about our biosphere.He emphasizes the enormous gaps in our knowledge,the
+sparseness of our observations,and the (3)
+calling attention to the
+many aspects of planetary evolution that must be better understood before we can
+accurately diagnose the condition of our planet.
+(i)A overshadowedB invalidatedC illuminated
+(ii)D enhanceE obscureF underscore
+(iii)
+G plausibility of our hypotheses
+H certainty of our entitlement
+I superficiality of our theories
+
+第一个选错了 第一个空可以选AB 如果选了色彩强烈就错乱了B 第一个和第二个同义 于是选A
+
+#### 难题逻辑训练
+45 Although Mount Saint Helens has been more____during the last 4,500 years than any other volcano in the coterminous United States,its long dormancy before its recent eruption____its violent nature.
+(i)A awe-inspiringB familiarC explosive
+(ii)D confirmedE beliedF suggested
+
+第二空入手 负评价 E 第二局是说 A 否定了B 则尽管后面是
+A的否定还是b 的否定呢 都可以 但A的更多 因为A否定b强调了a
+于是 禁止的否定 选C
+
+47 Documenting science's___philosophy would be____since it is almost axiomatic that many philosophers use scientific concepts as the foundations for their speculations.
+A distrust of..elementary
+B influence on..superfluous
+C reliance on..inappropriate
+D dependence on..difficult
+E differences from..impossible
+
+问 第二空是修饰doccumenting 还是第一个空 应该是documenting
+由since axiomatic 第二空就是axiomatic 选B
+
+#### 回顾
+之后搞练习

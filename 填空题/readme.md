@@ -619,3 +619,189 @@ E differences from..impossible
 
 #### 回顾
 之后搞练习
+
+51 Any language is a conspiracy against experience in the sense that it is a collective attempt to ____experience by reducing it into discrete parcels.
+A extrapolate
+B transcribe
+C complicate
+D amplify
+E manage
+
+空就是conspiracy against 或 reducing into discrete 都是负评价 排除ABD 
+由 reducing 选E 
+
+52 Once a duckling has identified a parent,the instinctive bond becomes a powerful channel for additional learning since,by____ the parent,the duckling can acquire further information that is not genetically transmitted.
+A surpassing
+B recognizing
+C acknowledging
+D disturbing
+E mimicking
+
+acknowledging 就是空 选C  是致谢
+
+就是E 
+有by 是关键词 直接看 后面的内容
+
+
+53.He felt it would be____,in view of the
+intense____that would likely follow,to make the sacrifice required in order to gain such little advantage.
+(i)A welcomedB charitable C unrealistic
+(ii)D growthE encouragementF turmoil
+
+这个真不会 C E
+
+解析 it 真正的主语是什么 是最后的宾语 
+第一空确实是负评价 C
+第二空，in view of 就是 in terms of/ with regard to 等于because 
+插入语和主句保持一致 也是夫评价 F
+ans：ＣＦ
+
+以上两题都是目的关系　比较有难度需要一定的推理　并不是简单的同义和反义重复
+
+下面是解释关系的例题
+
+54、The Muses are　____deities:they avenge themselves　without mercy on those who weary of their charms.
+A rueful
+B ingenuous
+C solicitous
+D vindictive
+E dispassionate
+
+The Muses 艺术女神 一共有九个
+avenge sb. on sth. 为了 向 什么人报仇
+
+ans:D
+
+矛盾对立的例题
+55 Speakers and listeners arc often at odds:language that is easy for the receiver to understand is often difficult to ____,and
+that which is easily formulated can be hard to____
+(i)A estimateB produceC remember
+(ii)D confirmE comprehendF forget
+
+第一空就是formulate 第二空就是understand
+Ans:BE
+
+这两个that 分别做引导词和代词 好的结构
+
+57 Although some consider forcefulness and ____
+to be two traits desirable to the same degree,I think that making a violent effort is much less useful than maintaining a steady one.
+A promptness
+B persistence
+C aggression
+D skillfulness
+E lucidity
+
+空格就是maintaining a steady one 选B
+
+这个结构也可以用在作文中 作为观点的 对比 写出来非常阿红
+
+
+
+直接重复 则对词汇的要求比较搞
+
+58 Famous among job seekers for its____,the company,quite apart from generous salaries,bestowed on its executives annual bonuses and such
+as ____low-interest home mortgages and company cars.
+(i)A largesse B inventiveness C altruism
+(ii)D reparations E perquisites F credits
+
+若A是大方的 D也蒙 作为补偿
+D 赔偿修理 E津贴 
+
+ans:AE 
+
+间接重复
+59 In an age without radio or recordings,an age____by print,fiction gained its greatest ascendancy.
+A decimated
+B denigrated
+C dominated
+D emphasized
+E resurrected
+
+A大屠杀 B诋毁 C主导 
+
+
+60 It is to the novelist's credit that all of the episodes in her novel are presented realistically,without any____or playful supernatural tricks.
+A elucidation
+B discrimination
+C artlessness
+D authenticity
+E whimsy
+
+解析：空就是 supernatural 不真实
+A阐释 B剔除 C无心 
+D真实 E滑稽
+
+选E 并且DE为一对反义词
+
+反义重复
+
+61 At first,I found her gravity rather intimidating:but,as I saw more  of her,I found that____ was very near the surface.
+A seriousness
+B confidence
+C laughter
+D poise
+E determination
+
+排除法蒙D
+
+ans:C
+
+主句 我发现女同志严肃 
+补充 反逻辑 则空时不严肃
+ poise 平衡 
+ AC一对反义词   
+
+取非的集中情况
+  - 直接取非
+  - 程度取非 
+  - 褒贬取非
+
+62 The labor union and the company's management,despite their long history of unfailingly acerbic disagreement on nearly every issue,have nevertheless reached an unexpectedly____, albeit still tentative,agreement on next year's contract.
+A swift
+B onerous 繁重的 不是统一的
+C hesitant
+D reluctant
+E conclusive
+
+空格时正评价 排除BCD 由albeit tentative 排除E 三位一体
+
+62是褒贬取非 比较少见
+
+nonplus 困惑
+
+63 While not completely nonplussed by the usually caustic responses from members of the audience,the speaker was nonetheless visibly ____by their lively criticism.
+A humiliated
+B discomfited  挫败
+C deluded 哄骗
+D disgraced
+E tantalized 逗弄 折磨
+
+负评价 排除E 虽然不知道E是啥
+
+63 左右两句是同一个精准主体 不能直接取非
+
+此题把程度取非和直接取非的选项弄在一起属于难题
+
+A 直接去非
+ans:B 小尴尬
+
+64 From the outset,the concept of freedom of the seas from the proprietary claims of nations was challenged by a contrary notion that of the ____of the oceans for reasons of national security
+and profit.
+A promotion
+B exploration
+C surviving
+D conservation
+E enclosure
+
+my: 不自由选保守D 保守是conservative
+ans:E 关起来 这题难
+
+65 It is difficult to distinguish between the things that charismatic figures do____and those that are carefully contrived for effect.
+
+A formally
+B publicly
+C prolifically 丰富的 
+D spontaneously
+E willfully
+
+还是难在单词上了 派出了ABD 蒙C
